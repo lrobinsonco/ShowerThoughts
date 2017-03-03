@@ -1,0 +1,93 @@
+body {
+  margin: auto;
+  background-color: forestgreen;
+  font-family: Baloo, sans-serif;
+}
+
+.brand-logo {
+  margin-left:2%;
+  width:10vw;
+}
+
+.responsive-img {
+  width:100%;
+}
+
+.btn-container {
+  display:flex;
+  justify-content: center;
+}
+
+.btn {
+  width:50vw;
+  height:10vh;
+  font-size: 4vw;
+  margin-top:1%;
+  text-align: center;
+  background-color: dodgerblue;
+}
+
+.form-container {
+  margin:auto;
+  margin-top: 1%;
+  width:50vw;
+  display: flex;
+  justify-content: center;
+  border:3px dashed blue;
+  text-align: center;
+  padding: 2%;
+  background-image: url("https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.spreadshirtmedia.com%2Fimage-server%2Fv1%2Fdesigns%2F1006184219%2Cwidth%3D178%2Cheight%3D178.png&f=1");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
+  opacity: .8;
+  color:white;
+}
+
+.input-field {
+  background-color: : yellow;
+}
+
+.col {
+  width: 100%;
+}
+
+.advice-container {
+  margin: auto;
+  margin-top:2%;
+  margin-bottom:1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:90vw;
+  height: 25vh;
+  border: 2px solid blue;
+  background-color:darkgrey;
+}
+
+.advice {
+  color: white;
+  font-size: 4em;
+}
+
+#donate {
+margin:auto;
+margin-left:5%;
+  width:18vw;
+}
+
+.poop {
+  color:forestgreen;
+  font-size: 2em;
+  padding:1%;
+  font-family: baloo
+}
+
+.nav-wrapper {
+  background-color:dodgerblue;
+}
+
+footer.page-footer {
+  background-color: dodgerblue;
+  margin:auto;
+}
